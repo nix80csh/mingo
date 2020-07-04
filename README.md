@@ -1,1 +1,1 @@
-# mingo
+# mingo-webapp
