@@ -10,7 +10,7 @@
 		<module>mingo-core</module>
 		<module>mingo-api</module>
 	</modules>		
-
+	<!-- 기능추가 #1 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
